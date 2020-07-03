@@ -1,0 +1,22 @@
+{
+  "name": "inline-script-html-plugin",
+  "version": "1.0.0",
+  "description": "inject the js inline at html",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luoschenfeng/inline-script-html-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "html-webpack-plugin",
+    "inject the js inline at html"
+  ],
+  "author": "luoschenfeng <luoschenfeng@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "html-webpack-plugin": "^4.3.0"
+  }
+}
