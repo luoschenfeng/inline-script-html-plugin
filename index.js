@@ -57,6 +57,7 @@ class InlineScriptHtmlPlugin {
         'InlineScriptHtmlPlugin',
         assets => {
           assets.bodyTags = assets.bodyTags.map(tagFunction);
+          return assets
         }
       )
     });
